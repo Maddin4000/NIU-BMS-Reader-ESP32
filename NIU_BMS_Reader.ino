@@ -3,8 +3,8 @@
 #include <WebServer.h>
 
 // ================= WIFI =================
-const char* ssid     = "DaveFonyod";
-const char* password = "3910020245750005";
+const char* ssid     = "Your SSID";
+const char* password = "You Password";
 
 // ================= RS485 =================
 #define RS485_RX 20
