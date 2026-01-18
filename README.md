@@ -10,3 +10,4 @@ Verbinde de/re zusammen mit Pin 6 vom ESP in meinem Fall.
 RO = RX 
 DI = TX
 
+<img width="590" height="1278" alt="IMG_7515" src="https://github.com/user-attachments/assets/c52a4224-0d22-4023-862e-b73ddec1e0e2" />
